@@ -1,3 +1,5 @@
+**This repository is not maintained. Code's will be updated in [PathFinder Lab Github](https://github.com/PathfinderLab/AdaSlide)**
+
 # AdaSlide <img src="docs/adaslide.jpg" width="120px" align="right" />
 Adaptive Compression Framework for Giga-pixel Whole Slide Images
 
